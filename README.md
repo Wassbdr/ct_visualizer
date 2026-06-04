@@ -81,3 +81,6 @@ Utility module for exploring and managing dataset information:
 ## License
 
 This project is for educational and research purposes.
+---
+
+Related: [pinkcc25-pc-segmentation](https://github.com/Wassbdr/pinkcc25-pc-segmentation) — deep learning segmentation model for ovarian cancer on CT scans (PINKCC Challenge 2025)
